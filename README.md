@@ -1,5 +1,7 @@
 Simple React Calendar with [`create-next-app`](https://github.com/zeit/next.js/tree/canary/packages/create-next-app).
 
+<img src="screenshot-calendar.png" width="500">
+
 ## Getting Started
 
 First, run the development server:
