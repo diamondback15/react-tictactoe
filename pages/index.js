@@ -1,7 +1,7 @@
-import Calendar from '../components/Calendar'
+import Tictactoe from '../components/Tictactoe'
 
 const Index = () => {
-    return <Calendar />
+    return <Tictactoe />
 }
 
 export default Index
